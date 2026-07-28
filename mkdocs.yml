@@ -1,0 +1,27 @@
+site_name: Minha Wiki Vampiro V20 RPG
+
+docs_dir: C:/Users/asiap/OneDrive/Documentos/Obsidian Vault/Vampiro V20
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+    - search.suggest
+
+plugins:
+  - search
+  - roamlinks
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
