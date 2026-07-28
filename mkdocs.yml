@@ -1,4 +1,6 @@
 site_name: Minha Wiki Vampiro V20 RPG
+site_url: https://asiaplybr.github.io/wiki-de-vampiro/
+use_directory_urls: true
 
 docs_dir: C:/Users/asiap/OneDrive/Documentos/Obsidian Vault/Vampiro V20
 
